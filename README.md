@@ -1,16 +1,12 @@
-## Hi there 👋
 
-<!--
-**AlessiaConti/AlessiaConti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:wave:  Ciao, sono Alessia <br>
+:electric_plug:  Attualmente sono una studentessa <br>
+:mortar_board:  Ho una Laurea Triennale in Ingegneria Elettronica <br>
+:books:  Sto studiando per conseguire il titolo di Laurea Magistrale <br>
+:round_pushpin:  Presso l'Università Politecnica delle Marche, Ancona
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Progetti in evidenza
+- [Progetto Sistemi Embedded](https://github.com/AlessiaConti/Progetto-Sistemi-Embedded)
+- [Progetto Tirocinio Curriculare](https://github.com/AlessiaConti/Tirocinio_Triennale)
+- [Progetto Sistemi Elettronici](https://github.com/AlessiaConti/Progetto-Sistemi-Elettronici)
+- [Progetto Programmazione Orientata agli Oggetti (OOP)](https://github.com/AlessiaConti/Progetto-OOP-Univpm)
