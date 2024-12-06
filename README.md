@@ -1,6 +1,5 @@
 
-:wave:  Ciao, sono Alessia <br>
-:electric_plug:  Attualmente sono una studentessa <br>
+:wave:  Ciao, sono Alessia! <br>
 :mortar_board:  Ho una Laurea Triennale in Ingegneria Elettronica <br>
 :books:  Sto studiando per conseguire il titolo di Laurea Magistrale <br>
 :round_pushpin:  Presso l'Università Politecnica delle Marche, Ancona
