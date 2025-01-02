@@ -1,7 +1,7 @@
 
 :wave:  Ciao, sono Alessia! <br>
 :mortar_board:  Ho una Laurea Triennale in Ingegneria Elettronica <br>
-:books:  Sto studiando per conseguire il titolo di Laurea Magistrale <br>
+:books:  Sto studiando per conseguire la Laurea Magistrale <br>
 :round_pushpin:  Presso l'Università Politecnica delle Marche, Ancona
 
 ### Progetti in evidenza
